@@ -1,0 +1,9 @@
+Plotted to 'C:\Users\lwolt\Tech\Week 1 Care Package\First Project\Gerber\First Project-F_Cu.gbr'.
+Plotted to 'C:\Users\lwolt\Tech\Week 1 Care Package\First Project\Gerber\First Project-B_Cu.gbr'.
+Plotted to 'C:\Users\lwolt\Tech\Week 1 Care Package\First Project\Gerber\First Project-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\lwolt\Tech\Week 1 Care Package\First Project\Gerber\First Project-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\lwolt\Tech\Week 1 Care Package\First Project\Gerber\First Project-F_Mask.gbr'.
+Plotted to 'C:\Users\lwolt\Tech\Week 1 Care Package\First Project\Gerber\First Project-B_Mask.gbr'.
+Plotted to 'C:\Users\lwolt\Tech\Week 1 Care Package\First Project\Gerber\First Project-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\lwolt\Tech\Week 1 Care Package\First Project\Gerber\First Project-job.gbrjob'.
+Info: Done.
