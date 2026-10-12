@@ -13,11 +13,10 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Main microcontroller; controls the sensors and the OLED dislpay | 1 | $4.90 | $4.90 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| [0.96″ OLED Display 128×64 Pixel I2C SSD1306 Weiß / Blau-Gelb](https://chipglobe.shop/produkte/oled-display-0-96-zoll-128x64/) | Displays sensor readings and information | 1 | $4.37 | $4.37 | [ChipGlobe](https://chipglobe.shop/produkte/oled-display-0-96-zoll-128x64/) |
 | [3-Achsen Beschleunigungs-/ Lagesensor - GY-521 MPU-6050](https://www.roboter-bausatz.de/p/3-achsen-beschleunigungs-lagesensor-gy-521-mpu-6050) | Measures acceleration and rotation along three each | 1 | $3.68 | $3.68 | [Roboter-Bausatz.de](https://www.roboter-bausatz.de/p/3-achsen-beschleunigungs-lagesensor-gy-521-mpu-6050) |
 | [DHT11 Temperatur- und Feuchtigkeitssensor - Modul + Kabel](https://botland.de/multifunktionale-sensoren/1886-dht11-temperatur-und-feuchtigkeitssensor-modul-kabel-5903351242448.html#) | Measures temperature and relative humidity | 1 | $3.36 | $3.36 | [botland](https://botland.de/multifunktionale-sensoren/1886-dht11-temperatur-und-feuchtigkeitssensor-modul-kabel-5903351242448.html#) |
-| **Parts subtotal** | — | — | — | **$16.31** | — |
+| **Parts subtotal** | — | — | — | **$11.94** | — |
 | **Tax & shipping** | — | — | — | **$17.62** | — |
-| **Total** | — | — | — | **$33.93** | — |
+| **Total** | — | — | — | **$29.56** | — |
 
-**$3.93 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.44 left of the tier's funding.
