@@ -17,7 +17,7 @@
 | [3-Achsen Beschleunigungs-/ Lagesensor - GY-521 MPU-6050](https://www.roboter-bausatz.de/p/3-achsen-beschleunigungs-lagesensor-gy-521-mpu-6050) | Measures acceleration and rotation along three each | 1 | $3.68 | $3.68 | [Roboter-Bausatz.de](https://www.roboter-bausatz.de/p/3-achsen-beschleunigungs-lagesensor-gy-521-mpu-6050) |
 | [DHT11 Temperatur- und Feuchtigkeitssensor - Modul + Kabel](https://botland.de/multifunktionale-sensoren/1886-dht11-temperatur-und-feuchtigkeitssensor-modul-kabel-5903351242448.html#) | Measures temperature and relative humidity | 1 | $3.36 | $3.36 | [botland](https://botland.de/multifunktionale-sensoren/1886-dht11-temperatur-und-feuchtigkeitssensor-modul-kabel-5903351242448.html#) |
 | **Parts subtotal** | — | — | — | **$16.31** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$16.31** | — |
+| **Tax & shipping** | — | — | — | **$17.62** | — |
+| **Total** | — | — | — | **$33.93** | — |
 
-$13.69 left of the tier's funding.
+**$3.93 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
